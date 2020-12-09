@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Made
+  site_title: GainTap
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -32,8 +32,8 @@ contact_settings:
   send_button_text: 'Get in Touch'
 
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
+  facebook_url: 'https://facebook.com'
+  twitter_url: 'https://twitter.com'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
