@@ -1,7 +1,7 @@
 site: GainTap
 
 url: https://gaintap.github.io
-baseurl: baseurl: /organization
+baseurl: /
 
 collections:
   pages:
