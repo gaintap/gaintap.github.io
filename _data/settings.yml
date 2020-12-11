@@ -15,8 +15,8 @@ menu_settings:
 
 footer_settings:
   logo_image: 
-  logo_width: 100
-  tagline: A beautiful, minimal portfolio Jekyll theme
+  logo_width: 66
+  tagline: Search marketing wizards
 
 hero_settings:
   background_image: https://gaintap.github.io/images/backgrounds/background-hero.svg
