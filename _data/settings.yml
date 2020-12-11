@@ -61,11 +61,11 @@ social_settings:
 
 color_settings:
   background_color: '#ffffff'
-  background_alt_color: 'yellow'
+  background_alt_color: '#939597' ## Pantone: ultimate gray 
   text_dark_color: '#202224'
   text_medium_color: '#6C7A89'
   text_light_color: '#AEB3BB'
-  accent_color: '#4C60E6'
+  accent_color: '#F5DF4D' ## Pantone: illuminating - yellow
   border_color: '#ECEDEF'
   error_color: '#D64541'
 
