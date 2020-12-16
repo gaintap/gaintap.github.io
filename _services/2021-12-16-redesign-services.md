@@ -5,6 +5,12 @@ description: Preserve the marketing value of your website during and after the r
 featured_image: /images/social.jpg
 gallery_images:
 - demo.jpg
+- demo.jpg
+- demo.jpg
+- demo.jpg
+- demo.jpg
+- demo.jpg
+
 ---
 ## Our redesign services are freaking amazing
 
