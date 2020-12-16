@@ -8,6 +8,9 @@ gallery_images:
 ---
 ## Our redesign services are freaking amazing
 
+![](/images/services/demo.jpg)
+
+
 ### You have options to get back on track.
 
 If you’re experiencing a drop in visits, leads and sales as a result of your redesign then you need to know there are options to recover.
