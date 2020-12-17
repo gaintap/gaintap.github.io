@@ -49,13 +49,13 @@ defaults:
       type: "services"
     values:
       layout: "page"
-    -
+  -
     scope:
       path: ""
       type: "case_studies"
     values:
       layout: "case_study"
-
+  -
 markdown: kramdown
 highlighter: rouge
 
