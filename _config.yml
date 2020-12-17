@@ -16,6 +16,9 @@ collections:
   services:
     output: true
     permalink: /services/:slug
+  case_studies:
+    output: true
+    permalink: /case-studies/:slug
 
 defaults:
   -
@@ -47,7 +50,13 @@ defaults:
       type: "services"
     values:
       layout: "page"
-
+ -
+    scope:
+      path: ""
+      type: "case_studies"
+    values:
+      layout: "case_study"
+      
 markdown: kramdown
 highlighter: rouge
 
