@@ -13,6 +13,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  services:
+    output: true
+    permalink: /services/:slug
 
 defaults:
   -
@@ -38,6 +41,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "page"
 
 markdown: kramdown
 highlighter: rouge

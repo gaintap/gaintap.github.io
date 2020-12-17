@@ -1,0 +1,52 @@
+---
+layout: default
+overtitle: We Help You Look Awesome
+title: Services
+description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
+featured_image: /images/social.jpg
+---
+
+<div class="page-home">
+<section class="hero">
+		<div class="wrap grid">
+			<div class="title">
+				<p class="subtitle">{{ page.overtitle }}</p>
+				<h1>{{ page.title }}</h1>
+			</div>
+
+			<p class="intro subtitle--light">
+				{{ page.description }}
+				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Get In Touch</a>
+			</p>
+		</div>
+	</section>
+    <section class="listing">
+		<div class="wrap">
+
+			{% for service in site.services %}
+
+			{% if service.accent_color %}{% capture accent_color %}{{ service.accent_color }}{% endcapture %}{% endif %}
+
+			<article class="project__preview">
+				<h3 class="project__title"><a href="{{ service.url | relative_url }}" style="--accent: {{ accent_color }}">{{ service.title }}</a></h3>
+
+				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
+					{% for image in service.gallery_images %}
+					<a href="{{ service.url | relative_url }}"><img src="{{ '/images/services/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
+					{% endfor %}
+				</div>
+
+				<div class="project__content grid" style="border-color: {{ accent_color }}">
+					<p class="project__subtitle subtitle--light">{{ service.subtitle }}</p>
+					<p class="project__description --small">
+						{{ service.description }}
+						<a href="{{ service.url | relative_url }}" class="project__link button--text --right"
+							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">Learn more about {{ service.title }}</a>
+					</p>
+				</div>
+			</article>
+
+			{% endfor %}
+		</div>
+	</section>
+</div>
