@@ -11,9 +11,6 @@
 
 // - - - - - - - - - - Variables
 
-.post__content {
-    margin: 0 auto!important;
-}
 
 // Colors
 
@@ -185,3 +182,9 @@ $baseurl: '{{ site.baseurl }}';
 
 @import "_includes/_section__listing";
 @import "_includes/_section__hero";
+
+// // - - - - - - - - - - Custom styles & overrides
+.post__content {
+    margin-left: auto;
+    margin-right: auto;
+}
