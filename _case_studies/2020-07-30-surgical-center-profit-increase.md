@@ -1,77 +1,13 @@
 ---
-author: ny2oz
-comments: false
 date: 2020-07-30 16:58:21+00:00
-layout: post
 link: https://redesignrecovery.com/case-studies/surgical-center-profit-increase/
 slug: surgical-center-profit-increase
 title: Surgical Center Struggling After Redesign Sees +$970,000 Profit in 8 Months.
-wordpress_id: 2705
-categories:
-- Case Studies
+challenge: Help a growing nationwide healthcare company correct technical and strategic issues that caused their revenue to drop after they launched a new website.
+outcome: The issues were corrected and additional website marketing helped the company go from $30,000 to $970,000 net over eight months.
+featured_image: /images/social.jpg
+
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Challenge
-
-
-
-
-
-
-
-Help a growing nationwide healthcare company correct technical and strategic issues that caused their revenue to drop after they launched a new website.
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Outcome
-
-
-
-
-
-
-
-The issues were corrected and additional website marketing helped the company go from $30,000 to $970,000 net over eight months.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Background
 

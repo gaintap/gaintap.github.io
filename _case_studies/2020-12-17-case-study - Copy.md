@@ -1,7 +1,6 @@
 ---
 title: Surgical Center Struggling After Redesign Sees +$970,000 Profit in 8 Months.
 date: 2019-06-30 00:00:00
-subtitle: 
 description: Preserve the marketing value of your website during and after the redesign process.
 challenge: Help a growing nationwide healthcare company correct technical and strategic issues that caused their revenue to drop after they launched a new website.
 outcome: The issues were corrected and additional website marketing helped the company go from $30,000 to $970,000 net over eight months.
