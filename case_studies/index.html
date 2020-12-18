@@ -19,18 +19,18 @@ featured_image: /images/social.jpg
 				{% for case in paginator.case_studies %}
 				<article class="post post-new">
 					<div class="grid">
-						<a href="{{ post.url | relative_url }}">
+						<a href="{{ case.url | relative_url }}">
 							<div class="post__image{% if paginator.page == 1 %} post__image--new{% endif %}"
-								style="background-image: url({{ post.featured_image | relative_url }})">
+								style="background-image: url({{ case.featured_image | relative_url }})">
 							</div>
 						</a>
 
 						<div class="post__content-wrap">
 							<div class="post__content">
-								<time class="post__date label--small">{{ post.date | date: "%B %d, %Y" }}</time>
-								<h2 class="post__title h4"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-								<p class="post__subtitle">{{ post.subtitle }}</p>
-								<p class="post__description">{{ post.description }}</p>
+								<time class="post__date label--small">{{ case.date | date: "%B %d, %Y" }}</time>
+								<h2 class="post__title h4"><a href="{{ case.url | relative_url }}">{{ case.title }}</a></h2>
+								<p class="post__subtitle">{{ case.subtitle }}</p>
+								<p class="post__description">{{ case.description }}</p>
 								<a href="{{ post.url | relative_url }}" class="post__link button--text--accent --right">Keep Reading</a>
 							</div>
 						</div>
