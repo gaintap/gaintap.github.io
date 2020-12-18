@@ -16,7 +16,7 @@ featured_image: /images/social.jpg
 	<section class="all-posts">
 		<div class="wrap">
 			<div class="posts__list grid">
-				{% for case in paginator.caes %}
+				{% for post in paginator.case_studies %}
 				{% include component__post-preview.html %}
 				{% endfor %}
 			</div>
