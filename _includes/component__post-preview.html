@@ -4,6 +4,8 @@
     </div>
     <time class="post__date label--small">{{ post.date | date: "%B %d, %Y" }}</time>
     <h5 class="post__title subtitle">{{ post.title }}</h5>
+      {% if page.layout == "case_study" %}
       <p><strong>Challenge: </strong>{{ post.challenge }}</p>
+      {% endif %}
   </a>
 </article>
