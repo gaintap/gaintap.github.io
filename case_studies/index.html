@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Case Studies
-description: We solve complicated problems.
+description: Made includes a beautiful grid-based blog with pagination.
 featured_image: /images/social.jpg
 ---
 
@@ -9,38 +9,34 @@ featured_image: /images/social.jpg
 	<header class="header--single">
 		<div class="wrap">
 			<h1 class="header__title">Case Studies</h1>
-			<p class="header__subtitle subtitle--light">Problems we've solved.</p>
+			<p class="header__subtitle subtitle--light">Find out what I've been up through my latest photo blogging adventures.</p>
 		</div>
 	</header>
 
 	<section class="all-posts">
 		<div class="wrap">
 			<div class="posts__list grid">
-				{% for case in paginator.case_studies %}
-				<article class="post post-new">
-					<div class="grid">
-						<a href="{{ case.url | relative_url }}">
-							<div class="post__image{% if paginator.page == 1 %} post__image--new{% endif %}"
-								style="background-image: url({{ case.featured_image | relative_url }})">
-							</div>
-						</a>
-
-						<div class="post__content-wrap">
-							<div class="post__content">
-								<time class="post__date label--small">{{ case.date | date: "%B %d, %Y" }}</time>
-								<h2 class="post__title h4"><a href="{{ case.url | relative_url }}">{{ case.title }}</a></h2>
-								<p class="post__subtitle">{{ case.subtitle }}</p>
-								<p class="post__description">{{ case.description }}</p>
-								<a href="{{ post.url | relative_url }}" class="post__link button--text--accent --right">Keep Reading</a>
-							</div>
-						</div>
-					</div>
-				</article>
-				{% else %}
+				{% for case in paginator.caes %}
 				{% include component__post-preview.html %}
-				{% endif %}
 				{% endfor %}
 			</div>
 		</div>
 	</section>
+
+	{% if paginator.total_pages > 1 %}
+
+	<section class="pagination">
+		<div class="wrap">
+			{% if paginator.previous_page %}
+			<a href="{{ paginator.previous_page_path | relative_url }}"
+				class="button--text--accent --left pagination__prev">Newer Posts</a>
+			{% endif %}
+			{% if paginator.next_page %}
+			<a href="{{ paginator.next_page_path | relative_url }}"
+				class="button--text--accent --right pagination__next">Older Posts</a>
+			{% endif %}
+		</div>
+	</section>
+
+	{% endif %}
 </div>
