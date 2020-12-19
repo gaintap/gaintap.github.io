@@ -1,16 +1,12 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-07-30 16:00:35+00:00
-layout: post
-link: https://redesignrecovery.com/case-studies/company-modernizes-web-presence/
-slug: company-modernizes-web-presence
 title: 40-Year-Old Logistics Company Modernizes Web Presence With Redesign
-wordpress_id: 2685
-categories:
-- Case Studies
+date: 2020-07-30 16:56:08+00:00
+slug: company-modernizes-web-presence
+challenge: Help a growing nationwide healthcare company correct technical and strategic issues that caused their revenue to drop after they launched a new website.
+outcome: The issues were corrected and additional website marketing helped the company go from $30,000 to $970,000 net over eight months.
+description: Preserve the marketing value of your website during and after the redesign process.
+featured_image: /images/social.jpg
 ---
-
 
 
 

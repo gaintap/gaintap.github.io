@@ -1,16 +1,12 @@
 ---
-author: ny2oz
-comments: true
+title: Professional Services Firm Reinforces Expertise with Site Migration & Wikipedia
 date: 2020-07-30 16:56:08+00:00
-layout: post
-link: https://redesignrecovery.com/case-studies/last-minute-audit-saves-seo/
 slug: last-minute-audit-saves-seo
-title: Last Minute Pre-Launch Audit Saves Developer's SEO During Redesign
-wordpress_id: 2701
-categories:
-- Case Studies
+challenge: Help a growing nationwide healthcare company correct technical and strategic issues that caused their revenue to drop after they launched a new website.
+outcome: The issues were corrected and additional website marketing helped the company go from $30,000 to $970,000 net over eight months.
+description: Preserve the marketing value of your website during and after the redesign process.
+featured_image: /images/social.jpg
 ---
-
 
 
 

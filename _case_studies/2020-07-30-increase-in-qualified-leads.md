@@ -1,14 +1,11 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-07-30 16:55:02+00:00
-layout: post
-link: https://redesignrecovery.com/case-studies/increase-in-qualified-leads/
-slug: increase-in-qualified-leads
 title: 400% Increase in Qualified Leads After Redesign Recovery
-wordpress_id: 2699
-categories:
-- Case Studies
+date: 2020-07-30 16:56:08+00:00
+slug: increase-in-qualified-leads
+challenge: Help a growing nationwide healthcare company correct technical and strategic issues that caused their revenue to drop after they launched a new website.
+outcome: The issues were corrected and additional website marketing helped the company go from $30,000 to $970,000 net over eight months.
+description: Preserve the marketing value of your website during and after the redesign process.
+featured_image: /images/social.jpg
 ---
 
 

@@ -1,15 +1,15 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-07-30 16:01:01+00:00
-layout: post
-link: https://redesignrecovery.com/case-studies/angel-investor-maximizes-investment/
-slug: angel-investor-maximizes-investment
 title: Redesign Consulting Helps Angel Investor Maximize Investment In Startup’s Website
-wordpress_id: 2689
-categories:
-- Case Studies
+date: 2020-07-30 16:56:08+00:00
+slug: angel-investor-maximizes-investment
+challenge: Help a growing nationwide healthcare company correct technical and strategic issues that caused their revenue to drop after they launched a new website.
+outcome: The issues were corrected and additional website marketing helped the company go from $30,000 to $970,000 net over eight months.
+description: Preserve the marketing value of your website during and after the redesign process.
+featured_image: /images/social.jpg
 ---
+
+
+
 
 
 
