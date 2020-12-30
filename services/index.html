@@ -3,6 +3,7 @@ layout: default
 overtitle: We Help You Look Awesome
 title: Services
 description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
+category: services
 featured_image: /images/social.jpg
 ---
 <div class="page-blog">
@@ -17,7 +18,7 @@ featured_image: /images/social.jpg
 		<div class="wrap">
 			<div class="posts__list grid">
 			   {% for post in site.services %}
-               {% include component__post-preview.html %}
+               {% include component__service-preview.html %}
                {% endfor %}
 			</div>
 		</div>
