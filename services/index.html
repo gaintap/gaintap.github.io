@@ -18,7 +18,7 @@ featured_image: /images/social.jpg
 			<div class="posts__list grid">
 			    {% for service in site.services %}
                 
-                {<article class="project__preview">
+                <article class="project__preview">
 				<h3 class="project__title"><a href="{{ service.url | relative_url }}" style="--accent: {{ accent_color }}">{{ service.title }}</a></h3>
 
 				<div class="project__content grid" style="border-color: {{ accent_color }}">
