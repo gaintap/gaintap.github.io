@@ -1,7 +1,7 @@
 ---
 title: Conversion Optimization
-subtitle: Catchy subheader here about Redesign Services
-description: Preserve the marketing value of your website during and after the redesign process.
+subtitle: Make the most of your existing website by improving positive user actions that lead to more contacts, leads and sales.
+description: Conversion optimization helps you do more with less and maximizes contacts, leads and sales from your website.
 featured_image: /images/social.jpg
 gallery_images:
 
