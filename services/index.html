@@ -20,9 +20,7 @@ featured_image: /images/social.jpg
                 
 				<article class="post__card">
                     <a href="{{ service.url | relative_url }}" class="post__link">
-                        <div class="post__image" style="background-image: url({{ service.featured_image | relative_url }})">
-                        </div>
-                        <h3 class="post__title subtitle">{{ service.title }}</h5>
+                        <h5 class="post__title subtitle">{{ service.title }}</h5>
                         <p>{{ service.description }}</p>
                         {% endif %}
                     </a>
