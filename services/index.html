@@ -16,16 +16,9 @@ featured_image: /images/social.jpg
 	<section class="all-posts">
 		<div class="wrap">
 			<div class="posts__list grid">
-			    {% for service in site.services %}
-                
-				<article class="post__card">
-                    <a href="{{ service.url | relative_url }}" class="post__link">
-                        <h5 class="post__title subtitle">{{ service.title }}</h5>
-                        <p>{{ service.description }}</p>
-                        {% endif %}
-                    </a>
-                </article>
-				{% endfor %}
+			   {% for post in site.services %}
+               {% include component__post-preview.html %}
+               {% endfor %}
 			</div>
 		</div>
 	</section>
