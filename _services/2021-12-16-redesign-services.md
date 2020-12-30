@@ -1,6 +1,6 @@
 ---
 title: Redesign Services
-subtitle: We have the best redesign services on planet Pluto
+subtitle: Catchy subheader here about Redesign Services
 description: Preserve the marketing value of your website during and after the redesign process.
 featured_image: /images/social.jpg
 gallery_images:
@@ -13,8 +13,6 @@ gallery_images:
 - demo.jpg
 
 ---
-## Catchy subheader here about Redesign Services
-
 ### What are Redesign Services?
 
 This advisory service is based on the definitive book on this subject, *Financial Management of a Marketing Firm*, updated every year for a changing marketplace. The data is based on an intimate look at 900+ firms, supplemented by thousands of firms who have attended the seminar on the same topic.
