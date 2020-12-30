@@ -4,6 +4,7 @@ subtitle: We have the best redesign services on planet Pluto
 description: Preserve the marketing value of your website during and after the redesign process.
 featured_image: /images/social.jpg
 gallery_images:
+
 - demo.jpg
 - demo.jpg
 - demo.jpg
@@ -12,31 +13,84 @@ gallery_images:
 - demo.jpg
 
 ---
-## Our redesign services are freaking amazing
+## Catchy subheader here about Redesign Services
 
-![](/images/services/demo.jpg)
+### What are Redesign Services?
 
+This advisory service is based on the definitive book on this subject, *Financial Management of a Marketing Firm*, updated every year for a changing marketplace. The data is based on an intimate look at 900+ firms, supplemented by thousands of firms who have attended the seminar on the same topic.
 
-### You have options to get back on track.
+### What we do (general)
 
-If you’re experiencing a drop in visits, leads and sales as a result of your redesign then you need to know there are options to recover.
+Based on the financial materials that you supply, we’ll build a dynamically-updated five-page spreadsheet that captures all the significant metrics of your firm. It’s built so that you or your CFO/Controller can update it (typically quarterly) so keep an eye on how your firm is progressing.
 
-If you want a real world look at what it takes, see our case study on recovering from a failed redesign.
+### What we do (specific)
 
-Every situation is a unique combination of problems so the fastest way to get your problems resolved will be having a conversation with us.
+I’ll score your firm’s performance (based on the sub-type of firm that it is) and then suggest the appropriate range for each metric. We’ll discuss together how to impact that metric (what levers to pull) and how long it takes for the results to appear. In each case you’re comparing your own progress over time as well as how you compare with other firms of the same category and a similar size.
 
-### Our process
-- Determine a marketing baseline to compare the new website against
-- Understand the goal of the redesign
-- Audit the new website to identify reasons it is underperforming
-- Provide a clear report explaining the issues, how to correct them, how much it will cost to fix them and how long it will take to see improvement
-- Perform the work needed to restore the website’s performance
+- Service 1
+- Service 2
+- Service 3
 
-We primarily focus on issues that affect a website’s search engine marketing and ability to generate leads (conversion rate). This includes organic search engine rankings (SEO) and paid search advertising (Google Ads) as well as factors that reduce the website’s conversions (calls, contact forms, downloads, etc.)
+The analysis addresses these elements of performance:
 
-### Expect the following when it comes to fixing your site:
-- If you have a backup copy of your website, consider reverting to that. If it’s been weeks since launch, this may not be as effective.
-- It’s going to take awhile to get back to where you were. Think weeks or months, not days.
-- There are often multiple problems working together to reduce the effectiveness of your website.
-- Being transparent and open with your company is the only way to get this resolved. This means access to people, analytics and performance data so we can make real changes that improve your company’s success.
-- It is more time consuming and costly to recover from a bad redesign than to prevent it from happening in the first place.
+1. Monthly Overhead.
+2. Cash Cushion appropriate for your client base.
+3. Ratio of Obligations to Assets.
+4. Client Concentration and client distribution: minimum size, maximum size, and optimum size.
+5. Number of Qualified Clients on your roster.
+6. Ideal Yearly Client Spend.
+7. Ideal Facility Size for your employee load, including minimum and maximum optimized space.
+8. Ideal Facility Expense (Burdened) for your employee load, including minimum and maximum allowance.
+9. Net Profit: actual and expected.
+10. Target Principal Comp for you.
+11. Unburdened Compensation Allowance for all other employees.
+12. Accounts Receivable Outstanding measured in turnover days.
+13. Utilization/Realization, measuring your financial opportunity vs. your financial output.
+14. Fee Billings Per FTE, with an expected range for your specific type/size of firm.
+
+### The fine details
+
+#### Location. 
+
+Remotely.
+
+#### Duration.
+
+From commencement to completion, expect this to span 1 month.
+
+#### When work starts
+
+Can usually be initiated within 1-2 weeks, depending on the time of year.
+
+#### Deliverable
+
+Hours of industry leading advice that follows a written agenda/process, very carefully and concisely stated recommendations for your note taking, and later expansions as necessary. These are spread across 2-3 calls and multiple emails.
+
+#### What's required of you
+
+A principal or someone with access gathers materials for roughly one hour. Principals and critical leaders participate in the phone calls and homework, as appropriate, but mainly we just need decision makers in the loop.
+
+#### Cost
+
+$4,000 fee.
+
+#### Payment Terms
+
+Prepaid and non-refundable, sent with the materials that we’ll request.
+
+**Note**. This is included in the [Total Business Review](https://www.davidcbaker.com/recourses-total-business-review/) but can be purchased separately, though it’s done remotely in this case.
+
+[Google Analytics](https://www.notion.so/Google-Analytics-01f71a9491324ed2be0da2673f858496)
+
+[By Phase: Planning](https://www.notion.so/By-Phase-Planning-f4ec8edb81914c689c7a5066b75122f4)
+
+[RFP / Agency Vetting](https://www.notion.so/RFP-Agency-Vetting-423e652099a640b89e8b4c278dbf59f7)
+
+[Design Team Consulting](https://www.notion.so/Design-Team-Consulting-7dfc1c9d009043debb09e4ac2977afe9)
+
+[Site Launch Services](https://www.notion.so/Site-Launch-Services-f19215971e674d70a5c386dc156a7cb5)
+
+[Website Restructuring](https://www.notion.so/Website-Restructuring-fcb17d016d8b4d17a7f93747cb5566a3)
+
+[Before Launch](https://www.notion.so/Before-Launch-ee0f9b6636fd459a905c14e3b8f7ce31)
+
