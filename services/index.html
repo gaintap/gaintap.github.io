@@ -18,18 +18,15 @@ featured_image: /images/social.jpg
 			<div class="posts__list grid">
 			    {% for service in site.services %}
                 
-                <article class="project__preview">
-				<h3 class="project__title"><a href="{{ service.url | relative_url }}" style="--accent: {{ accent_color }}">{{ service.title }}</a></h3>
-
-				<div class="project__content grid" style="border-color: {{ accent_color }}">
-					<p class="project__subtitle subtitle--light">{{ service.subtitle }}</p>
-					<p class="project__description --small">
-						{{ service.description }}
-						<a href="{{ service.url | relative_url }}" class="project__link button--text --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">Learn more about {{ service.title }}</a>
-					</p>
-				</div>
-			</article>
+				<article class="post__card">
+                    <a href="{{ service.url | relative_url }}" class="post__link">
+                        <div class="post__image" style="background-image: url({{ service.featured_image | relative_url }})">
+                        </div>
+                        <h3 class="post__title subtitle">{{ service.title }}</h5>
+                        <p>{{ service.description }}</p>
+                        {% endif %}
+                    </a>
+                </article>
 				{% endfor %}
 			</div>
 		</div>
