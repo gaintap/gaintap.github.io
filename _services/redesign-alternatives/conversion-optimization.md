@@ -2,63 +2,44 @@
 title: Conversion Optimization
 subtitle: Make the most of your existing website by improving positive user actions that lead to more contacts, leads and sales.
 description: Conversion optimization helps you do more with less and maximizes contacts, leads and sales from your website.
-featured_image: /images/social.jpg
+featured_image:
 gallery_images:
-
-- demo.jpg
-- demo.jpg
-- demo.jpg
-- demo.jpg
-- demo.jpg
-- demo.jpg
+-
 
 ---
-### What are Redesign Services?
+### What are Conversion Optimization Services?
 
-This advisory service is based on the definitive book on this subject, *Financial Management of a Marketing Firm*, updated every year for a changing marketplace. The data is based on an intimate look at 900+ firms, supplemented by thousands of firms who have attended the seminar on the same topic.
+Conversion optimization services involve running tests on a website to improve desired positive results such as phone calls, contact form submissions and user registrations.
 
-### What we do (general)
+#### How we perform conversion optimization
 
-Based on the financial materials that you supply, we’ll build a dynamically-updated five-page spreadsheet that captures all the significant metrics of your firm. It’s built so that you or your CFO/Controller can update it (typically quarterly) so keep an eye on how your firm is progressing.
+We use software to perform a series of temporary, reversible experiments by editing the website's content to see what changes improve the positive actions and by how much they improve.
 
-### What we do (specific)
+#### What to expect, step-by-step
 
-I’ll score your firm’s performance (based on the sub-type of firm that it is) and then suggest the appropriate range for each metric. We’ll discuss together how to impact that metric (what levers to pull) and how long it takes for the results to appear. In each case you’re comparing your own progress over time as well as how you compare with other firms of the same category and a similar size.
+We'll work with you to identify areas of improvement, put together a solid strategy to test changes and then execute the tests.
 
-- Service 1
-- Service 2
-- Service 3
+This includes:
 
-The analysis addresses these elements of performance:
+- Understanding your business, website and what's lacking
+- Putting together a series of test objectives such as improving conversion rate of a contact form
+- Gaining access to the website's backend
+- Installing scripts to run testing and analysis apps like Google Optimize, Google Tag Manager and Google Analytics
+- Creating A / B tests to run experiments
+- Monitoring experiments over a period of time often 2 weeks to 1 month
+- Reporting on results of the experiment and whether to implement the changes 'permanently' on the site
 
-1. Monthly Overhead.
-2. Cash Cushion appropriate for your client base.
-3. Ratio of Obligations to Assets.
-4. Client Concentration and client distribution: minimum size, maximum size, and optimum size.
-5. Number of Qualified Clients on your roster.
-6. Ideal Yearly Client Spend.
-7. Ideal Facility Size for your employee load, including minimum and maximum optimized space.
-8. Ideal Facility Expense (Burdened) for your employee load, including minimum and maximum allowance.
-9. Net Profit: actual and expected.
-10. Target Principal Comp for you.
-11. Unburdened Compensation Allowance for all other employees.
-12. Accounts Receivable Outstanding measured in turnover days.
-13. Utilization/Realization, measuring your financial opportunity vs. your financial output.
-14. Fee Billings Per FTE, with an expected range for your specific type/size of firm.
+#### Where it's performed 
 
-### The fine details
+Work is performed remotely.
 
-#### Location. 
+#### How long conversion experiments last
 
-Remotely.
-
-#### Duration.
-
-From commencement to completion, expect this to span 1 month.
+Expect individual tests to take at least two weeks before clear results are determined. Some tests can be performed at the same time which shortens overall duration.
 
 #### When work starts
 
-Can usually be initiated within 1-2 weeks, depending on the time of year.
+Once we agree on terms of work, receive initial payment and have logins to your website.
 
 #### Deliverable
 
