@@ -6,7 +6,7 @@ description: We help companies with lead generating websites reduce their risk d
 featured_image: /images/social.jpg
 ---
 
-<div class="page-home">
+<div class="page-home" style="padding-top: 45px, padding-bottom: 45px;">
 
 	{% if site.data.settings.hero_settings.background_image %}
 	<img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
@@ -15,6 +15,7 @@ featured_image: /images/social.jpg
 	<section>
 		<div class="wrap">
 			<div class="title">
+                <h3>{{ page.overtitle }}</h3>
 				<h1>{{ page.title }}</h1>
 			</div>
 
