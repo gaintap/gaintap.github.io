@@ -8,14 +8,6 @@ description: Preserve the marketing value of your website during and after the r
 featured_image: /images/case-studies/logistics-company.jpg
 ---
 
-### Challenge
-
-Help a 40-year old nationwide transportation logistics firm migrate to a new website that gives them more control over their web presence.
-
-### Outcome
-
-We helped the company modernize their marketing, building out a web presence that could serve as the foundation for future online marketing campaigns.
-
 ### Background
 
 We were contacted by a 40-year-old nationwide transportation logistics firm to help them launch a new website that would give them more control over their web content and generate additional leads outside their parent distribution network.

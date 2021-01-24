@@ -8,14 +8,6 @@ description: Preserve the marketing value of your website during and after the r
 featured_image: /images/case-studies/business-consultant.jpg
 ---
 
-### Challenge
-
-Understand what was causing a business consulting firm's website to deliver less leads after a redesign and make the website deliver as many, or more, leads as before.
-
-### Outcome
-
-We diagnosed the root causes of their poor lead generation, developed a plan to correct the issues and then executed this plan to improve their lead generation by 400% within eight months. We became a lead generation and technical partner for this client and their end-clients over the next four years.
-
 ### Background
 
 We were contacted by the principal of a nationwide business consulting firm who had noticed a drop in the quantity and quality of the leads his firm was getting shortly after they redesigned their website.

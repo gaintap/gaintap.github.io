@@ -8,14 +8,6 @@ description: Preserve the marketing value of your website during and after the r
 featured_image: /images/case-studies/it-consultant.jpg
 ---
 
-### Challenge
-
-Preserve the lead generation capabilities of a software development company’s 10 year old website that had just been redesigned and was about to launch.
-
-### Outcome
-
-We helped their development team correct issues that were made during the development design and development process that would have negatively affected the lead generation performance of their website.
-
 ### Background
 
 We first worked with the company two years before their redesign. We were introduced to them through a client of ours who was a business consultant tasked with growing the software developer’s business. And we spent several months helping them improve their site structure and content. They wanted us involved with the new website so we could migrate over all of the “good stuff” that had been built up.

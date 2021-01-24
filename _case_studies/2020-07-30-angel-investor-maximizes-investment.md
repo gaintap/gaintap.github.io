@@ -8,14 +8,6 @@ description: Preserve the marketing value of your website during and after the r
 featured_image: /images/case-studies/startup.jpg
 ---
 
-### Challenge
-
-Ensure the website redesign increases visits from searchers on Google by restructuring content and meeting all technical best practices to build on existing traffic.
-
-### Outcome
-
-Provided consulting on migrating content in a way to preserve existing website traffic and increase the visits from search engines.
-
 ### Background
 
 The startup is a mid-sized technology company that connects buyers and sellers nationwide in an emerging healthcare segment. The investor knew that redesigned websites can have upset rankings in Google which can disrupt visits and sales. The startup had a team of content writers who published content daily, growing Google search visits to 1,000 per day. Losing this wasn’t an option so we were contacted to help steer them in the right direction.
