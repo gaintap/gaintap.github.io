@@ -1,6 +1,7 @@
 ---
+overtitle: Website redesign SEO specialists.
 layout: default
-title: Maintain and improve your website's lead generation capabilities.
+title: Maintain and improve your website's lead generation capabilities during your redesign.
 description: We help companies with lead generating websites reduce their risk during the website redesign process to prevent sudden loss of traffic, leads and sales. 
 featured_image: /images/social.jpg
 ---
@@ -17,7 +18,7 @@ featured_image: /images/social.jpg
 				<h1>{{ page.title }}</h1>
 			</div>
 
-			<p class="subtitle--light" style="padding-top: 20px;">
+			<p class="subtitle--light" style="padding-top: 45px;">
 				{{ page.description }}
 			</p>
 		</div>
@@ -55,20 +56,20 @@ featured_image: /images/social.jpg
 
 	{% include section__about.html %}
 
-	<section class="recent-posts">
+<section class="recent-posts">
 		<div class="wrap grid">
 			<header class="recent-posts__header">
-				<h4>Recent blog posts</h4>
-				<a href="{{ '/blog' | relative_url }}" class="action button--text--accent --right">All Posts</a>
+				<h4>Redesign Challenges / Results</h4>
+				<a href="{{ '/case-studies' | relative_url }}" class="action button--text--accent --right">View all case studies</a>
 			</header>
 
 			<div class="recent-posts__list grid">
-				{% for post in site.posts limit: 3 %}
+				{% for post in site.case_studies limit: 3 %}
 				{% include component__post-preview.html %}
 				{% endfor %}
 			</div>
 
-			<a href="{{ '/blog' | relative_url }}" class="action-bottom button--text--accent --right">All Posts</a>
+			<a href="{{ '/case-studies' | relative_url }}" class="action-bottom button--text--accent --right">View all case studies</a>
 		</div>
-	</section>
+	</section> -->
 </div>
