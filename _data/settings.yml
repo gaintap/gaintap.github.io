@@ -17,8 +17,8 @@ menu_settings:
 
 footer_settings:
   logo_image: 
-  logo_width: 100
-  tagline: Search marketing wizards
+  logo_width: 0
+  tagline: Clicks + Conversions = Customers
 
 hero_settings:
   background_image: https://gaintap.github.io/images/backgrounds/background-hero.svg
