@@ -5,7 +5,7 @@ slug: increase-in-qualified-leads
 challenge: Understand what was causing a business consulting firm's website to deliver less leads after a redesign and make the website deliver as many, or more, leads as before.
 outcome: We diagnosed the root causes of their poor lead generation, developed a plan to correct the issues and then executed this plan to improve their lead generation by 400% within eight months. We became a lead generation and technical partner for this client and their end-clients over the next four years.
 description: Preserve the marketing value of your website during and after the redesign process.
-featured_image: /images/social.jpg
+featured_image: /images/case-studies/business-consultant.jpg
 ---
 
 ### Challenge

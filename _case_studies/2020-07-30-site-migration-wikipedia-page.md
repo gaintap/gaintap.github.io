@@ -5,7 +5,7 @@ slug: site-migration-wikipedia-page
 challenge: Assist an established professional services firm who is the leader in their industry with a website migration and increasing awareness of them as the best choice for services in their industry.
 outcome: The website was migrated to new content management platform with an increase in qualified search traffic and expertise marketing earned them a Wikipedia page that boosts perception of them as the leader in their industry.
 description: Preserve the marketing value of your website during and after the redesign process.
-featured_image:
+featured_image: /images/case-studies/service-firm.jpg
 ---
 
 ### Challenge

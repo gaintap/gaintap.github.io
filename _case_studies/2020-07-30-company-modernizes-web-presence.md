@@ -5,7 +5,7 @@ slug: company-modernizes-web-presence
 challenge: Help a 40-year old nationwide transportation logistics firm migrate to a new website that gives them more control over their web presence.
 outcome: We helped the company modernize their marketing, building out a web presence that could serve as the foundation for future online marketing campaigns.
 description: Preserve the marketing value of your website during and after the redesign process.
-featured_image:
+featured_image: /images/case-studies/logistics-company.jpg
 ---
 
 ### Challenge

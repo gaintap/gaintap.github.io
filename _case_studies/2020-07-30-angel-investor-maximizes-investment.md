@@ -5,7 +5,7 @@ slug: angel-investor-maximizes-investment
 challenge: Ensure the website redesign increases visits from searchers on Google by restructuring content and meeting all technical best practices to build on existing traffic.
 outcome: Provided consulting on migrating content in a way to preserve existing website traffic and increase the visits from search engines.
 description: Preserve the marketing value of your website during and after the redesign process.
-featured_image:
+featured_image: /images/case-studies/startup.jpg
 ---
 
 ### Challenge
