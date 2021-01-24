@@ -24,12 +24,12 @@ featured_image: /images/social.jpg
 		</div>
 	</section>
 
+<!--	{% for project in site.projects reversed %}
 	<section class="listing">
 		<div class="wrap">
 
-			{% for project in site.projects reversed %}
 
-			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
+			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %} 
 
 			<article class="project__preview">
 				<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
@@ -39,7 +39,6 @@ featured_image: /images/social.jpg
 					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
 					{% endfor %}
 				</div>
-
 				<div class="project__content grid" style="border-color: {{ accent_color }}">
 					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
 					<p class="project__description --small">
@@ -53,6 +52,7 @@ featured_image: /images/social.jpg
 			{% endfor %}
 		</div>
 	</section>
+-->
 
 <section class="recent-posts">
 		<div class="wrap grid">
