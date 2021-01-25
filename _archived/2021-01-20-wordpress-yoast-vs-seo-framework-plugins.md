@@ -1,5 +1,5 @@
 ---
-title: 'WordPress SEO Plugin Comparison: Yoast vs SEO Framework'
+title: WordPress SEO Plugin Comparison - Yoast vs. SEO Framework
 date: 2021-01-01
 description: Comparison of Yoast SEO vs SEO Framework, two of the top SEO plugins for Wordpress.
 featured_image:
