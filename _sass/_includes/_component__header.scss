@@ -100,7 +100,7 @@
   justify-content: center;
   @include translate(0, -50%);
   cursor: pointer;
-  background-color: transparentize($accent-color, 0.92);
+  background-color: transparentize($accent-color, 0.1);
   border-radius: 8px;
 
   &:active {
