@@ -18,6 +18,9 @@ collections:
   case_studies:
     output: true
     permalink: /case-studies/:slug
+  archived:
+    output: true
+    permalink: /archived/:slug
 
 defaults:
   -
