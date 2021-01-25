@@ -1,5 +1,5 @@
 ---
-title: 'Why Your Sponsorship Request Sucks and You're Not Getting Sponsors'
+title: ! 'Why Your Sponsorship Request Sucks and You're Not Getting Sponsors'
 date: 2021-01-01
 description: I've seen a lot of sponsorship requests over the years as a website consultant. Often times they look the same: a long email listing everything they need. Endless bullet points of gimmie, gimmie, gimmie. When I'm looking at emails like that I'm just thinking "money, money, money." I can total up everything in a sponsorship request in my head and reply "OK, what you're asking for is a couple thousand dollars worth of services. Now **what will you give me."**
 
