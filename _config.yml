@@ -58,6 +58,12 @@ defaults:
       type: "case_studies"
     values:
       layout: "case_study"
+  -    
+    scope:
+      path: ""
+      type: "archived"
+    values:
+      layout: "post"
   -
 markdown: kramdown
 highlighter: rouge
