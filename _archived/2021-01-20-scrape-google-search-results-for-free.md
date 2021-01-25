@@ -1,5 +1,5 @@
 ---
-title: How to Scrape Google Search Results For Free (VIDEO)
+title: 'How to Scrape Google Search Results For Free (VIDEO)'
 date: 2021-01-01
 description: I've tried great scraping tools like [Import.io](https://www.import.io/) with no luck. This is especially the case if you're trying to pull search results from pages that Google hides as duplicates.
 
