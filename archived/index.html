@@ -2,7 +2,7 @@
 layout: default
 title: Archived Posts
 description: Archived blog posts fro GainTap between 2015 - 2021.
-featured_image: /images/social.jpg
+featured_image:
 ---
 
 <div class="page-blog">
@@ -17,7 +17,7 @@ featured_image: /images/social.jpg
 		<div class="wrap">
 			<div class="posts__list grid">
 				{% for post in site.archived %}
-				{% include component__post_preview.html %}
+				{% include component__post-preview.html %}
 				{% endfor %}
 			</div>
 		</div>
