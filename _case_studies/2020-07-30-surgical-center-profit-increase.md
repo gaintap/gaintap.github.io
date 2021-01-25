@@ -7,7 +7,7 @@ outcome: The issues were corrected and additional website marketing helped the c
 description: Preserve the marketing value of your website during and after the redesign process.
 redirect_from: 
   - /post/test-redirect
-  - /post/test-redirect/
+  - /wp-content/uploads/2018/05/Yoast-Configuration-Wizard-Step-10.png
 
 featured_image: /images/case-studies/surgical-center.jpg
 ---
