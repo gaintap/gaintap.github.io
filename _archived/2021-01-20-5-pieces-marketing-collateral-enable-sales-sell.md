@@ -2,9 +2,9 @@
 title: Marketing Collateral Materials Every Business Needs (With Examples)
 date: 2021-01-01
 description: Ideas on marketing collateral pieces your company should be providing to your sales team.
-
 featured_image:
 ---
+
 Marketing collateral is comprised of sales support tools that help bolster your business’s credibility. Simply put: they help sell your business, which helps your business make sales. Below are a few pieces of marketing collateral that you need for your business because they will help generate leads and eventually revenue.
 
 ## Case Studies Prove Your Business Delivers Results

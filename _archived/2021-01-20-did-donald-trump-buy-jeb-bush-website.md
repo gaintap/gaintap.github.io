@@ -5,6 +5,7 @@ description: Debunking the claim that Donald Trump's campaign was clever enough 
 
 featured_image:
 ---
+
 ![Picture of Jeb Bush with a Redirect sign on his head pointing to Donald Trump](https://www.gaintap.com/wp-content/uploads/2016/02/donald-trump-jeb-bush-redirect-website-1.jpg) Here's a bit of political news that's Snopes worthy. There's something floating around on Facebook saying Donald Trump bought Jeb Bush's campaign site. Whether this is a bit of campaign propaganda to make Jeb Bush seem inept or just Facebook user gullibility, I don't know. But we can perform some basic Internet research to find out if Donald Trump bought Jeb Bush's campaign website. As a little background, we're a team of online marketers that do competitive website research and search engine marketing. h2>The source of the rumor There's a tweet supposedly from Donald Trump saying he bought Jeb Bush's website and re-directed it to his own site. Here's that tweet. ![twitter screenshot of donald trump supposedly saying he bought Jeb Bush's website](https://www.gaintap.com/wp-content/uploads/2016/02/donaldtrump-bought-jebs-site.jpg)
 
 ## Disproving this rumor with basic Internet research.

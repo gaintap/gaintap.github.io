@@ -2,9 +2,9 @@
 title: Google Custom Search Engine: Remove Ads From Your Site With These Alternatives
 date: 2021-01-01
 description: Options for replacing the defunct ad-free version of Google custom search.
-
 featured_image:
 ---
+
 ## As Google Ends Support for its Ad-Free Site Search, Website Owners Must Turn to 3rd Party Solutions
 
 Ever since Google was nestled under parent company Alphabet, they've been shaking things up. With the "Don't Be Evil" line [removed from their motto](http://time.com/4060575/alphabet-google-dont-be-evil/), the search engine giant has taken to monetizing every inch of the Internet they own. Over the last year, Adwords' costs have skyrocketed as Google consolidated competition to a few ad positions instead of a dozen or so while also increasing the size of search ads dramatically. A study by [Moz.com](https://moz.com/blog/google-organic-clicks-shifting-to-paid) found evidence that the changes to Google's search engine results page have negatively impacted organic search traffic numbers. Additionally Google silently made a change to Google Adwords bidding allowing campaign budgets to spend twice their daily maximums if Google deems it a wise investment of your ad budget. Is it wrong for Google to squeeze more revenue out of their products? Absolutely not. But their latest move to monetize the websites of countless businesses is too far. As of April 2018, Google's paid site search product will officially be discontinued. If you're currently using a paid Google Site Search product, here's what that means for your website.
