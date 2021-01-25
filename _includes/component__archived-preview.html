@@ -1,0 +1,6 @@
+<article class="post__card">
+  <a href="{{ post.url | relative_url }}" class="post__link">
+    <time class="post__date label--small">{{ post.date | date: "%B %d, %Y" }}</time>
+    <h5 class="post__title subtitle">{{ post.title }}</h5>
+  </a>
+</article>
