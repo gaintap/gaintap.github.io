@@ -1,5 +1,5 @@
 ---
-title: Google Custom Search Engine: Remove Ads From Your Site With These Alternatives
+title: 'Google Custom Search Engine: Remove Ads From Your Site With These Alternatives'
 date: 2021-01-01
 description: Options for replacing the defunct ad-free version of Google custom search.
 featured_image:

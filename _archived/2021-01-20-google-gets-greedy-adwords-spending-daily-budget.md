@@ -5,7 +5,7 @@ description: Yet another change to Google Ads that is unwelcome to most advertis
 
 featured_image:
 ---
-_![Google Greed Logo](https://www.gaintap.com/wp-content/uploads/2017/10/Google-Greed.jpg)Image source: seomofos.com_
+![Google Greed Logo](https://www.gaintap.com/wp-content/uploads/2017/10/Google-Greed.jpg)Image source: seomofos.com_
 
 ## **Here's what Google isn't telling you about their recent move to double Google Ads daily budgets.**
 
