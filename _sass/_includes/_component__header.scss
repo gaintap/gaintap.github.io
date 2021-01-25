@@ -123,7 +123,7 @@
     width: 18px;
     height: 3px;
     @include transition(all 0.12s);
-    background: white // change from $accent-color;
+    background: white; // change from $accent-color;
     border-radius: 4px;
   }
 
