@@ -191,7 +191,9 @@ $baseurl: '{{ site.baseurl }}';
     margin-right: auto;
     max-width: 740px;
 }
-
+.post__title {
+    text-align: center;
+}
 .studyBox {
     padding: 20px;
 }

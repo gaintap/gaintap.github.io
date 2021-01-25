@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Case Studies'
       url: '/case-studies/'
     - title: 'Contact'
-      url: '#contact'
+      url: '#contactus'
   ##  - title: 'Blog'
   ##  url: '/blog/'
 
