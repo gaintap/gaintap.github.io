@@ -2,6 +2,7 @@
 title: How to Get Your Website Indexed by Google
 date: 2021-01-01
 description: This article covers the initial steps for understanding how to get your website indexed by Google.
+
 featured_image:
 ---
 This article covers the initial steps for understanding how to get your website indexed by Google. I'll cover a quick overview of what Google looks for when indexing websites on its search results pages and a step-by-step tutorial for getting your site listed on Google search. This article is intended for those with little understanding of Search Engine Optimization (SEO) but can serve as a checklist of sorts for the experienced as well. If you need help, get in touch with me to discuss an advanced analysis of your search rankings. If you just redesigned your site and are having SEO issues go to our SEO troubleshooting guide related to [organic traffic drops after a new site launch](https://www.gaintap.com/blog/website-redesign-traffic-drop/),
