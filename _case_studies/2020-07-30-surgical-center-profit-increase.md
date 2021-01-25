@@ -6,7 +6,7 @@ challenge: Help a growing nationwide healthcare company correct technical and st
 outcome: The issues were corrected and additional website marketing helped the company go from $30,000 to $970,000 net over eight months.
 description: Preserve the marketing value of your website during and after the redesign process.
 redirect_from: 
-  - /post/test-redirect/
+  - /post/test-redirect
 
 featured_image: /images/case-studies/surgical-center.jpg
 ---
