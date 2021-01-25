@@ -1,5 +1,5 @@
 ---
-title: ! 'Ad Impressions: Definition, Cost Per Thousand Formula and Value'
+"title: Ad Impressions: Definition, Cost Per Thousand Formula and Value"
 date: 2021-01-01
 description: I was recently asked to answer what seems like a very simple question: how do you determine the value of ad impressions? But this question is anything but simple. Besides, in order to determine the value of each impression, it's important to understand what an impression is and how online ad buys work.
 
