@@ -23,7 +23,7 @@ footer_settings:
   tagline: Clicks + Conversions = Customers
 
 hero_settings:
-  background_image: https://gaintap.github.io/images/backgrounds/background-hero.svg
+  background_image: https://www.gaintap.com/images/backgrounds/background-hero.svg
 
 post_settings:
   grid_spacing: 10
