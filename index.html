@@ -6,20 +6,20 @@ description: We help companies with lead generating websites reduce their risk d
 featured_image: /images/social.jpg
 ---
 
-<div class="page-home" style="padding-top: 45px, padding-bottom: 45px;">
+<div class="page-home" style="padding-top: 45px; padding-bottom: 45px;">
 
 	{% if site.data.settings.hero_settings.background_image %}
 	<img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
 	{% endif %}
 
-	<section>
+	<section class="hero">
 		<div class="wrap">
 			<div class="title">
                 <h3>{{ page.overtitle }}</h3>
 				<h1>{{ page.title }}</h1>
 			</div>
 
-			<p class="subtitle--light" style="padding-top: 45px;">
+			<p class="subtitle--light">
 				{{ page.description }}
 			</p>
 		</div>
@@ -75,5 +75,14 @@ featured_image: /images/social.jpg
 <! -- About Us Section -->    
     
     	{% include section__about.html %}
+
+<! -- Services Section -->  
+    <span id="services"></span>
+    
+    {% include section__services.html %}
+    
+<! -- Contact Section -->
+    <span id="contactus"></span>
+    {% include section__contactus.html %}
 
 </div>
