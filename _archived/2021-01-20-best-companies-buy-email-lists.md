@@ -2,6 +2,9 @@
 title: Buying Email Lists is a Waste of Money - Here's A Better Alternative
 date: 2021-01-01
 description: An alternative look at generating email lists that does not include wasting thousands of dollars on stale, bought-and-sold email lists.
+redirect_from:
+  - /blog/best-companies-buy-email-lists
+  - /blog/best-companies-buy-email-lists/
 
 featured_image:
 ---
