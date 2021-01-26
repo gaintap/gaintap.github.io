@@ -209,6 +209,10 @@ $baseurl: '{{ site.baseurl }}';
     background: white;
     border: 1px dashed;
 }
+.case_study ul:first-child {
+    margin-top: 30px;
+}
+}
 // end 
 
 article ul li {
