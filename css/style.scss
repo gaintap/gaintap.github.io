@@ -196,6 +196,8 @@ $baseurl: '{{ site.baseurl }}';
 }
 .studyBox {
     padding: 20px;
+    border: 1px dashed;
+    background: white;
 }
 article ul li {
     padding-top: 15px;
