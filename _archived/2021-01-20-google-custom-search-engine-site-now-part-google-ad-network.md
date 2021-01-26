@@ -13,10 +13,6 @@ Ever since Google was nestled under parent company Alphabet, they've been shakin
 
 By discontinuing the paid Google Site Search, Google will begin showing ads on your website when search queries are made. The ads are a part of AdSense, showing ads for a variety of things that you [must control actively](https://support.google.com/adsense/answer/180609?hl=en).
 
-### Here's a Search for Common Core on an Educational Website with a Google Custom Search Engine
-
-![A Google Site Search result showing advertising on a website](https://www.gaintap.com/wp-content/uploads/2018/02/google-site-search-with-ads.png)
-
 ### The Problem With Google Custom Search Engine
 
 With a Google Custom Search Engine that shows ads, you can run into the following situations unless you are revising your permission within your AdSense account.
@@ -28,8 +24,6 @@ With a Google Custom Search Engine that shows ads, you can run into the followin
 ### Why is Google Removing the Paid Google Site Search Engine?
 
 Money. It doesn't make sense for Google to take a payment to block ads if that payment is less than Google makes from the ads. If you're running Adwords, Google can make money sending people **to your site** and then make money again by sending people **off your site**. They also dramatically increase the size of their search partner network which will increase clicks. Meaning, more money for Google.
-
-### ![Google search partners definition](https://www.gaintap.com/wp-content/uploads/2018/02/google-search-partners-definition.png)
 
 ### What to Do About it?
 

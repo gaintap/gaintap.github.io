@@ -36,7 +36,7 @@ Here's what you should see: [Call us at 555-428-0940](tel:5554280940) Click the 
 
 ## How to Make a Phone Number Clickable in WordPress
 
-![animated gif showing how to link phone numbers in Wordpress so they can be clicked and called from a mobile phone](https://www.gaintap.com/wp-content/uploads/2017/08/linking-phone-numbers-in-wordpress.gif) More comfortable with the visual tab/WYSIWYG/TinyMCE editor? Here's how you add phone links in Wordpress:
+More comfortable with the visual tab/WYSIWYG/TinyMCE editor? Here's how you add phone links in Wordpress:
 
 1.  Edit your page or post in Wordpress.
 2.  Make sure you're on the Visual tab - not the Text tab.
@@ -62,4 +62,4 @@ Here's an easy call tracking solution: combine the above steps with Google Analy
 
 ### Here's what those clicks look like in Google Analytics:
 
-![screenshot of Google Analytics showing succeessful call events logged in the Behavior panel](https://www.gaintap.com/wp-content/uploads/2017/08/google-analytics-call-event-tracking.jpg) If you're on Wordpress, you may run into issues with Google Analytics and event tracking. I recommend using [Google Tag Manager](https://www.google.com/analytics/tag-manager/) for all tags on Wordpress. You'll need to have some HTML skills, but it simplifies everything.
+If you're on Wordpress, you may run into issues with Google Analytics and event tracking. I recommend using [Google Tag Manager](https://www.google.com/analytics/tag-manager/) for all tags on Wordpress. You'll need to have some HTML skills, but it simplifies everything.

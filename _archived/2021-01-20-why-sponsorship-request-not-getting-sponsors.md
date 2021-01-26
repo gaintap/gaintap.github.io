@@ -27,7 +27,7 @@ How valuable is the digital marketing from your organization? You need to say t
 
 #### Do people and Google like your website?
 
-Other things you want to include are how much traffic you get to your website. If they get to put their logo on your website, is anyone going to see it? Does Google rank your website high in search results? How many links do you have going to your website? If you give them a link to their website is that worth something? You can use [tools like SEO Moz's Open Site Explorer](https://moz.com/researchtools/ose/) to figure these numbers out. If you've got a lot of links to your site and a domain authority of 30+, that's worth something. The higher the better and the more you can get in return. [![What Sponsors Want In Return](https://www.gaintap.com/wp-content/uploads/2015/01/opensite-explorer-screenshot-1024x397.jpg)](https://moz.com/researchtools/ose/)
+Other things you want to include are how much traffic you get to your website. If they get to put their logo on your website, is anyone going to see it? Does Google rank your website high in search results? How many links do you have going to your website? If you give them a link to their website is that worth something? You can use [tools like SEO Moz's Open Site Explorer](https://moz.com/researchtools/ose/) to figure these numbers out. If you've got a lot of links to your site and a domain authority of 30+, that's worth something. The higher the better and the more you can get in return.
 
 #### Digital is king but smart marketers respect offline sponsorships, too.
 

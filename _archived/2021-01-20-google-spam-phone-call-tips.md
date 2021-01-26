@@ -35,7 +35,9 @@ Pretty much anything **except** "Hi, I'm with Google" or "I'm from Google."
 
 ### Their Website Has a Big Disclaimer
 
-Here's a message my client emailed me: ![A spammy message from a well known Google Maps company](https://www.gaintap.com/wp-content/uploads/2018/01/google-spam-message.jpg) Take a look at the footer of their website: ![Google Maps company spammy footer](https://www.gaintap.com/wp-content/uploads/2018/01/google-spam-footer.jpg) It states: is not Google, a partner of Google or has any special relationship with Google. If you tell someone on the phone that you're from Google and they read this on your website they will be angry. Not a great marketing tactic as can be seen from this company's many negative reviews.
+Check the disclaimer on the website. Often these sites will admit they are not part of Google. I took a look at a major player in the Google spam game and their disclaim statest: it is not Google, a partner of Google or has any special relationship with Google. 
+
+If you tell someone on the phone that you're from Google and they read this on your website they will be angry. Not a great marketing tactic as can be seen from this company's many negative reviews.
 
 ## In Conclusion
 

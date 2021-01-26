@@ -50,7 +50,7 @@ The termination meeting should be arranged so it’s right before lunch or right
 
 ### How to Make Sure You’re Firing Them Legally
 
-![A flowchart that shows the steps you should follow to fire someone legally.](https://www.gaintap.com/wp-content/uploads/2017/09/how-to-make-sure-you-fire-someone-legally-diagram.png) An employee who’s been terminated can sometimes feel the need to retaliate. Perhaps they felt they were treated unfairly, or let go prematurely. In these cases, it’s important you follow a few simple rules to ensure you’re in the clear legally and avoid any issues after firing an employee.
+An employee who’s been terminated can sometimes feel the need to retaliate. Perhaps they felt they were treated unfairly, or let go prematurely. In these cases, it’s important you follow a few simple rules to ensure you’re in the clear legally and avoid any issues after firing an employee.
 
 ### Make sure a witness is present when you fire them.
 
