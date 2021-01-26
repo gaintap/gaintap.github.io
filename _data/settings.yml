@@ -183,7 +183,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: "UA-58181526-1"
+  analytics_code: "" // replaced with an analytics.html file in includes folder. Then hardcoded into default layout
   custom_styles: ""
   header_js: ""
   footer_js: ""
