@@ -5,6 +5,7 @@ description: A super simple look at creating a click-to-call link on your websit
 redirect_from:
   - /blog/clickable-website-phone-number-and-call-tracking-guide
   - /blog/clickable-website-phone-number-and-call-tracking-guide/
+  
 featured_image:
 ---
 I never knew this was a problem when I had my Android phone as most phone numbers were clickable by default. But when I switched over to an iPhone, I realized a lot of websites didn't have a click to call link! That meant I had to start copying and pasting phone numbers, adjusting the little select area over the phone number just right to get it. That's not a good solution.
