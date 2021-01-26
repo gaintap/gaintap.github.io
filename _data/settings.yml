@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Services'
-      url: '/services'
+      url: 'https://www.gainta.com/#services'
     - title: 'Case Studies'
       url: '/case-studies/'
     - title: 'Contact'
