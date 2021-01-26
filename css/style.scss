@@ -194,11 +194,22 @@ $baseurl: '{{ site.baseurl }}';
 .post__title {
     text-align: center;
 }
+
+// Case Study styles
 .studyBox {
     padding: 20px;
     border: 1px dashed;
     background: white;
 }
+
+.case_study ul li {
+    list-style: none;
+    padding: 15px;
+    background: white;
+    border: 1px dashed;
+}
+// end 
+
 article ul li {
     padding-top: 15px;
     padding-bottom: 15px;
