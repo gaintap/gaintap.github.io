@@ -183,7 +183,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
+  analytics_code: "" ## replaced with hard code in default layout. Calls analytics.html from includes folder
   custom_styles: ""
   header_js: ""
   footer_js: ""
