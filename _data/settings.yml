@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Case Studies'
       url: '/case-studies/'
     - title: 'Contact'
-      url: 'https://www.gaintap.com/#contactus'
+      url: '/contact'
   ##  - title: 'Blog'
   ##  url: '/blog/'
 
