@@ -382,11 +382,11 @@
 		}
 	});
 
-	$(document).on('click', '.menu__list__item__link', function () {
+	$(document).on('click', '.menu__list__item', function () {
 
 		// If menu is open when you click a link on mobile
-	if ($('body').hasClass('menu--open')) {
-			$('body').removeClass('menu--open');
+		if ($('.menu').hasClass('menu--open')) {
+			$('.menu').removeClass('menu--open');
 		}
 	});
 
