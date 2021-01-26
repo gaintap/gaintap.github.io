@@ -1,6 +1,6 @@
 ---
 title: WeWork Buys Meetup. Here’s How Meetup.com Will Change.
-date: 2017-28-11
+date: 2017-11-28
 description: Today multiple sources including Wired and the New York Times reported that Meetup has been acquired by WeWork. The reality is Meetup has to change to provide value to WeWork. In order to predict how they will change, let’s take a look at why WeWork purchased Meetup.
 redirect_from:
   - /blog/wework-buys-meetup-heres-meetup-will-change
