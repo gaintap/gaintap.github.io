@@ -382,7 +382,7 @@
 		}
 	});
 
-	$(document).on('click', '.menulink', function () {
+	$(document).on('click', '.menu__list__item__link', function () {
 
 		// If menu is open when you click a link on mobile
 	//	if ($('.menu').hasClass('menu--open')) {
