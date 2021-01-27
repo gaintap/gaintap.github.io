@@ -9,11 +9,11 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Services'
-      url: 'gaintap.com#services'
+      url: 'https://www.gaintap.com#services'
     - title: 'Case Studies'
-      url: '/case-studies/'
+      url: 'https://www.gaintap.com/case-studies/'
     - title: 'Contact'
-      url: 'gaintap.com#contactus'
+      url: 'https://www.gaintap.com#contactus'
   ##  - title: 'Blog'
   ##  url: '/blog/'
 
