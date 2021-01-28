@@ -1,0 +1,26 @@
+---
+layout: default
+overtitle: Website Redesign Guide
+title: Services
+description: We walk you through redesigning your company's website with a focus on maintaining SEO and lead generation.
+
+featured_image:
+---
+<div class="page-blog">
+	<header class="header--single">
+		<div class="wrap">
+			<h1 class="header__title">Website Redesign</h1>
+			<p class="header__subtitle subtitle--light"></p>
+		</div>
+	</header>
+
+	<section class="all-posts">
+		<div class="wrap">
+			<div class="posts__list grid">
+			   {% for post in site.redesign_guide %}
+               {% include component__post-preview.html %}
+               {% endfor %}
+			</div>
+		</div>
+	</section>
+</div>
