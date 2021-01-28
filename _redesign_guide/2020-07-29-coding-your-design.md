@@ -1,44 +1,17 @@
 ---
 date: 2020-07-29 23:09:36+00:00
-title: 'Coding Your Design'
-
+title: Coding Your Design
+description: A post
 featured_image:
 ---
 
-
-
-
 This is the web development portion of our website redesign guide. After you finish the design phase, you will need to work with a web developer to turn these designs into a website.
-
-
-
-
-
-
 
 ### Sending Design Files to a Developer
 
-
-
-
-
-
-
 First, you're going to need to send your design files to a developer. A simple way to do this is to use a file sharing program, such as Dropbox, so you can easily pass the files back and forth. Generally speaking, design files can be placed in a large zip file that contain images and the main files (Photoshop, Illustrator, Indesign, etc).
 
-
-
-
-
-
-
 ### Gather Logins The Developer Will Need
-
-
-
-
-
-
 
 You also should gather and send to your developer all the logins they’ll need to access the files.
 
