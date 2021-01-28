@@ -1,52 +1,16 @@
 ---
-author: ny2oz
-comments: true
 date: 2020-07-29 23:03:42+00:00
-layout: post
-link: https://redesignrecovery.com/redesign-guide/designing-your-website/
-slug: designing-your-website
-title: 'Part 5: Designing Your Website'
-wordpress_id: 2675
-categories:
-- Website Redesign Guide
-tags:
-- Website Redesign Guide
+title: 'Designing Your Website'
+
+featured_image: '/images/demo.jpg'
 ---
-
-
-
-
 Alright, here we are at the design phase of the website redesign. A lot of people consider design to be the first step of a website redesign project. But, in reality, there are several steps both before and after that are equally or more important.
-
-
-
-
-
-
 
 If you’ve made your way through all the previous steps in this website redesign guide, you should have an idea of how to lay the groundwork for redesigning a website, which means it’s time to move on to the actual design phase.
 
-
-
-
-
-
-
 ### Use design to achieve your business goals
 
-
-
-
-
-
-
 In previous chapters we’ve discussed how a website redesign should help accomplish business goals. During the design phase, we’re going to use the design of the site to achieve these goals.
-
-
-
-
-
-
 
 For example, if one of your business goals is to get more sales on your website for a specific product or service, you could add the product or service to a prominent banner on your homepage.
 

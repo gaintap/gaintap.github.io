@@ -1,16 +1,8 @@
 ---
-author: ny2oz
-comments: true
 date: 2020-07-29 23:09:36+00:00
-layout: post
-link: https://redesignrecovery.com/redesign-guide/coding-your-design/
-slug: coding-your-design
-title: 'Part 6: Coding Your Design'
-wordpress_id: 2677
-categories:
-- Website Redesign Guide
-tags:
-- Website Redesign Guide
+title: 'Coding Your Design'
+
+featured_image:
 ---
 
 
