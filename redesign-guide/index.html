@@ -17,8 +17,7 @@ featured_image:
 	<section class="all-posts">
 		<div class="wrap">
 			<div class="posts__list grid">
-               {% assigned sortedPosts = site.redesign_guide | sort: 'title'% }
-			   {% for post in sortedPosts %}
+			   {% for post in site.redesign_guide | sort: 'title' %}
                {% include component__service-preview.html %}
                {% endfor %}
 			</div>
