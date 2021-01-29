@@ -1,16 +1,8 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-07-29 20:48:35+00:00
-layout: post
-link: https://redesignrecovery.com/redesign-guide/planning-your-new-website/
-slug: planning-your-new-website
-title: 'Part 1: Planning Your New Website'
-wordpress_id: 2658
-categories:
-- Website Redesign Guide
-tags:
-- Website Redesign Guide
+title: Planning Your Website
+date: 2020-07-29
+description: A post
+featured_image:
 ---
 
 

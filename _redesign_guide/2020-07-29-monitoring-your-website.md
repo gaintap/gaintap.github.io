@@ -1,16 +1,8 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-07-29 23:12:48+00:00
-layout: post
-link: https://redesignrecovery.com/redesign-guide/monitoring-your-website/
-slug: monitoring-your-website
-title: 'Part 9: Monitoring Your Website'
-wordpress_id: 2683
-categories:
-- Website Redesign Guide
-tags:
-- Website Redesign Guide
+title: Monitoring Your Website
+date: 2020-07-29
+description: A post
+featured_image:
 ---
 
 

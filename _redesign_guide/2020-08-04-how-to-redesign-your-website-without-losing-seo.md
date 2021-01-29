@@ -1,14 +1,8 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-08-04 15:15:53+00:00
-layout: post
-link: https://redesignrecovery.com/articles/how-to-redesign-your-website-without-losing-seo/
-slug: how-to-redesign-your-website-without-losing-seo
-title: How to Redesign Your Website Without Losing SEO
-wordpress_id: 2806
-categories:
-- Articles
+title: Redesign Without Losing SEO
+date: 2020-07-29
+description: A post
+featured_image:
 ---
 
 

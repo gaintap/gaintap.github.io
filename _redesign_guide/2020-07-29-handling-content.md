@@ -1,16 +1,8 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-07-29 23:02:38+00:00
-layout: post
-link: https://redesignrecovery.com/redesign-guide/part-4-handling-content/
-slug: part-4-handling-content
-title: 'Part 4: Migrating Content'
-wordpress_id: 2672
-categories:
-- Website Redesign Guide
-tags:
-- Website Redesign Guide
+title: Handling Your Content
+date: 2020-07-29
+description: A post
+featured_image:
 ---
 
 

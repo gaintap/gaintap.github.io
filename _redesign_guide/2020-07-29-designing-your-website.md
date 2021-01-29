@@ -1,9 +1,10 @@
 ---
-date: 2020-07-29 23:03:42+00:00
-title: 'Designing Your Website'
-
-featured_image: '/images/demo.jpg'
+title: Designing Your Website
+date: 2020-07-29
+description: A post
+featured_image:
 ---
+
 Alright, here we are at the design phase of the website redesign. A lot of people consider design to be the first step of a website redesign project. But, in reality, there are several steps both before and after that are equally or more important.
 
 If you’ve made your way through all the previous steps in this website redesign guide, you should have an idea of how to lay the groundwork for redesigning a website, which means it’s time to move on to the actual design phase.

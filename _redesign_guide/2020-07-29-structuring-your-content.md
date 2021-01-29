@@ -1,16 +1,8 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-07-29 22:37:43+00:00
-layout: post
-link: https://redesignrecovery.com/redesign-guide/structuring-your-content/
-slug: structuring-your-content
-title: 'Part 2: Structuring Your Content'
-wordpress_id: 2668
-categories:
-- Website Redesign Guide
-tags:
-- Website Redesign Guide
+title: Structuring Your Content
+date: 2020-07-29
+description: A post
+featured_image:
 ---
 
 

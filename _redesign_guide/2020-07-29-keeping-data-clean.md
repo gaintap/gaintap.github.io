@@ -1,16 +1,8 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-07-29 23:01:41+00:00
-layout: post
-link: https://redesignrecovery.com/redesign-guide/keeping-data-clean/
-slug: keeping-data-clean
-title: 'Part 3: Keeping Data Clean'
-wordpress_id: 2670
-categories:
-- Website Redesign Guide
-tags:
-- Website Redesign Guide
+title: Keeping Data Clean
+date: 2020-07-29
+description: A post
+featured_image:
 ---
 
 

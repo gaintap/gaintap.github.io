@@ -1,18 +1,9 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-07-29 23:10:36+00:00
-layout: post
-link: https://redesignrecovery.com/redesign-guide/keeping-your-seo/
-slug: keeping-your-seo
-title: 'Part 7: Keeping Your SEO'
-wordpress_id: 2679
-categories:
-- Website Redesign Guide
-tags:
-- Website Redesign Guide
+title: Keeping Your SEO
+date: 2020-07-29
+description: A post
+featured_image:
 ---
-
 
 
 

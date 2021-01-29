@@ -1,18 +1,9 @@
 ---
-author: ny2oz
-comments: true
-date: 2020-07-29 23:11:18+00:00
-layout: post
-link: https://redesignrecovery.com/redesign-guide/launching-your-new-website/
-slug: launching-your-new-website
-title: 'Part 8: Launching Your New Website'
-wordpress_id: 2681
-categories:
-- Website Redesign Guide
-tags:
-- Website Redesign Guide
+title: Launching Your New Website
+date: 2020-07-29
+description: A post
+featured_image:
 ---
-
 
 
 
