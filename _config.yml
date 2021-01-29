@@ -21,6 +21,9 @@ collections:
   archived:
     output: true
     permalink: /archived/:slug
+  redesign_guide:
+    output: true
+    permalink: /redesign-guide/:slug
 
 defaults:
   -
