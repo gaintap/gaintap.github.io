@@ -1,5 +1,5 @@
 ---
-title: Coding Your Design
+title: 'Part 6: Coding Your Design'
 date: 2020-07-29
 description: A post
 featured_image:

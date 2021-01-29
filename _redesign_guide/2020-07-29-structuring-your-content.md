@@ -1,5 +1,5 @@
 ---
-title: Structuring Your Content
+title: 'Part 2: Structuring Your Content'
 date: 2020-07-29
 description: A post
 featured_image:

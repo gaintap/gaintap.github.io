@@ -1,5 +1,5 @@
 ---
-title: Handling Your Content
+title: 'Part 4: Handling Your Content'
 date: 2020-07-29
 description: A post
 featured_image:

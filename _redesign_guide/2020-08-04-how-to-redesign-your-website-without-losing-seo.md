@@ -1,5 +1,5 @@
 ---
-title: Redesign Without Losing SEO
+title: 'Extra: Redesign SEO Troubleshooting'
 date: 2020-07-29
 description: A post
 featured_image:

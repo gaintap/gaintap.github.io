@@ -1,5 +1,5 @@
 ---
-title: Keeping Your SEO
+title: 'Part 7: Keeping Your SEO'
 date: 2020-07-29
 description: A post
 featured_image:

@@ -1,5 +1,5 @@
 ---
-title: Designing Your Website
+title: 'Part 5: Designing Your Website'
 date: 2020-07-29
 description: A post
 featured_image:

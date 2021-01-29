@@ -1,5 +1,5 @@
 ---
-title: Launching Your New Website
+title: 'Part 8: Launching Your New Website'
 date: 2020-07-29
 description: A post
 featured_image:

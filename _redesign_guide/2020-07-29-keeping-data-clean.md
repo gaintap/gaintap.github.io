@@ -1,5 +1,5 @@
 ---
-title: Keeping Data Clean
+title: 'Part 3: Keeping Data Clean'
 date: 2020-07-29
 description: A post
 featured_image:
