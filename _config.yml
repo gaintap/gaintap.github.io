@@ -68,6 +68,13 @@ defaults:
     values:
       layout: "post"
   -
+    scope:
+      path: ""
+      type: "redesign_guide"
+    values:
+      layout: "post"
+  -
+  
 markdown: kramdown
 highlighter: rouge
 
