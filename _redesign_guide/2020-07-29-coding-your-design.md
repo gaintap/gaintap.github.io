@@ -1,6 +1,6 @@
 ---
-date: 2020-07-29 23:09:36+00:00
 title: Coding Your Design
+date: 2020-07-29 23:09:36+00:00
 description: A post
 featured_image:
 ---
