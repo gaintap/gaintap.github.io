@@ -1,5 +1,5 @@
 ---
-title: Planning Your Website
+title: 'Part 1: Planning Your Website'
 date: 2020-07-29
 description: A post
 featured_image:
@@ -16,7 +16,7 @@ Planning is the most important phase of any project. You, or the company that's 
 
 
 
-Ask yourself serious questions about the organization's website. We're proposing a few in this chapter. If you don't know the answers, find out. Or [get someone involved](https://redesignrecovery.com/before-you-redesign/) who will work with you to uncover the answers.
+Ask yourself serious questions about the organization's website. We're proposing a few in this chapter. If you don't know the answers, find out. Or get someone involved who will work with you to uncover the answers.
 
 
 
